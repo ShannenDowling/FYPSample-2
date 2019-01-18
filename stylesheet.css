@@ -1,0 +1,53 @@
+/* CSS Document */  
+body{background-color:#98d6d0;
+     color:#112b29;
+     width:60%;
+     font-family:Arial, Helvetica, sans-serif;
+     margin: auto auto;}
+     
+#header{font-size:1.5em;
+        font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+        padding:0.1em;
+        margin:auto auto;
+        color:#3d9991;}
+        
+#intro{width:85%;
+       margin:auto auto;
+       color:#112b29;
+       font-size:1em;
+       text-align:center;}
+       
+form{border: solid 0.2em #3d9991;
+     border-radius:0.1em;
+     width:96%;
+     margin: auto auto;
+     padding:1.5em;
+     line-height:2em;}
+     
+.marg{margin-left:1%;}
+
+fieldset{padding:1.5em;
+         border-color:#3d9991;
+         margin-bottom:5%;
+         background-color:#bde4e1;
+         width:85%;
+         margin-left:auto;
+         margin-right:auto;}
+  
+.marg1{margin-top:1em;}
+
+.result{font-weight:bold;
+        font-style:italic;
+        color:#993D45;}
+        
+table td, th{border-bottom:solid 0.1em #3d9991;
+             border-collapse:collapse;}
+          
+table td{border-right:solid 0.1em #3d9991;}
+
+.center{margin-left:5%;
+        margin-bottom:5%;}
+
+
+
+     
